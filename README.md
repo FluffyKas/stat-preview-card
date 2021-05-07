@@ -26,13 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-.screenshots/stats-preview-card-component-desktop.png
-.screenshots/stats-preview-card-component-mobile.png
+(.screenshots/stats-preview-card-component-desktop.png)
+(.screenshots/stats-preview-card-component-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://fluffykas.github.io/stat-preview-card/)
 
 ## My process
 
